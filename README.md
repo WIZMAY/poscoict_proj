@@ -1,5 +1,4 @@
-# poscoict_proj
-포스코ICT 인턴 과제
+# Posco ICT 인턴 과제
 # 1.개요 
 Kiosk 프로그램과 Level2 서버 프로그램의 기능을 구현하고 tcp 연결 
 # 2.개발환경
