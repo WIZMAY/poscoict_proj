@@ -1,6 +1,6 @@
 # Posco ICT 인턴 과제
 #  1.개요 
-Kiosk 프로그램과 Level2 서버 프로그램의 기능을 구현하고 tcp 연결   
+Kiosk 원료 투입 및 실적 관리 프로그램과 Level2 서버 프로그램의 기능을 구현하고 tcp 연결   
 #  2.개발환경
 OS : window 10   
 개발언어 : C#   
@@ -13,4 +13,4 @@ Tool : visual studio 2022 community (17.3.3)
 
 #  4. Level2 서버 구현
 ![20220831145345](https://user-images.githubusercontent.com/43694335/187606901-ce3ea8e5-279a-4a97-b438-c418aa0007f2.png)
-<img src="https://user-images.githubusercontent.com/43694335/187606901-ce3ea8e5-279a-4a97-b438-c418aa0007f2.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/43694335/187606901-ce3ea8e5-279a-4a97-b438-c418aa0007f2.png" width="400" height="200"/>
