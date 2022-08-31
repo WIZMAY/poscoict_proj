@@ -1,0 +1,11 @@
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\ICTUSER\Source\Repos\WIZMAY\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
